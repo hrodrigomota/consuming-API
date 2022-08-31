@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+}
+
+.container {
+    width: 32rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    margin: 1rem 0;
+    cursor: pointer;
+}
+
+.return {
+    margin-top: 2rem;
+    padding: 4rem 1.5rem;
+    width: 30rem;
+    height: 40rem;
+    border: 1px solid black;
+    border-radius: 1rem;
+    background-color: lightgray;
+    box-shadow: 0 0 20px white;
+    color: black;
+}
+
+.cardChuckNorris {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.4rem;
+    /* background-color: gray;
+    color: white; */
+    gap: 2rem;
+    text-transform: capitalize;
+    text-align: justify;
+}
+
+#chuckNorris {
+    width: 12rem;
+    height: 12rem;
+}
+
+.cardPokemon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.6rem;
+    /* background-color: gray;
+    color: white; */
+    text-transform: capitalize;
+    gap: 2rem;
+}
+
+img#pokemon {
+    margin-top: 1.5rem;
+    width: 25rem;
+    height: auto;
+}
