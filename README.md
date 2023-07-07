@@ -1,4 +1,4 @@
-# Consuming-API
+# Consuming API
 
 <p align="center" >
   <img src="./images/consuming-API-screen.png" width="854px" height="480px" alt="Consuming-API Screen" />
@@ -6,7 +6,7 @@
 
 ## 📑 Description
 
-<p>Consuming-API was made to practice using more than one Application Programming Interface - API in the same project. In this case, Chuck Norris.io and PokéAPI were used.</p>
+<p>Consuming API was made to practice using more than one Application Programming Interface - API in the same project. In this case, Chuck Norris.io and PokéAPI were used.</p>
 
 <p>
   The APIs are available on the following websites:
@@ -34,4 +34,4 @@ PokéAPI: https://pokeapi.co/
 
 <p>Click on the link below to access the project 👇🏾</p>
 
-- [Consuming-API](https://hrodrigomota.github.io/consuming-API/)
+- [Consuming API](https://hrodrigomota.github.io/consuming-API/)
