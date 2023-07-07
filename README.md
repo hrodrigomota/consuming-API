@@ -6,7 +6,7 @@
 
 ## 📑 Description
 
-<p>Consuming API was made to practice using more than one Application Programming Interface - API in the same project. In this case, Chuck Norris.io and PokéAPI were used.</p>
+<p>Consuming-API was made to practice using more than one Application Programming Interface - API in the same project. In this case, Chuck Norris.io and PokéAPI were used.</p>
 
 <p>
   The APIs are available on the following websites:
